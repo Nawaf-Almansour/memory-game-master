@@ -21,7 +21,7 @@ Screenshots
 ### The beginning of the game
 https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot1.png
 ### Solving the game
-(https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot2.png)
+![HTML GAME](https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot2.png)
 ### The end of the game
 (https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot3.png)
 
