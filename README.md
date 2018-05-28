@@ -26,6 +26,8 @@ http://stackoverflow.com/a/2450976
 
 # The beginning of the game
 ![HTML GAME1](https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot1.png)
+# Experience the game
+![HTML GAME4](https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot4.png)
 # Solving the game
 ![HTML GAME2](https://github.com/zenger7/memory-game-master/blob/master/img/ScreenShot2.png)
 # The end of the game
