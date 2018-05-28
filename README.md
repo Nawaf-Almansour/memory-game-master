@@ -1,6 +1,4 @@
-# Memory Game Project
-
-# About the author
+## Memory Game Project
 
 # About the game
 A simple card matching game depends on the player's speed and luck
