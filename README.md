@@ -1,6 +1,5 @@
 # Memory Game Project
 
-
 # About the author
 
 # About the game
@@ -10,7 +9,10 @@ Performance measurement based on Time Elapsed and Moves
 
 # How to install the game locally ?
 
+A Web Application to play the card Game. To run this project locally you need to have the Browser (google chrome or  firefox  or safari)
+
 # How to play the game?
+Open the project file and press the Index.html file to start the automatic game
 
 # dependencies
 
